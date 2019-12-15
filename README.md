@@ -16,7 +16,7 @@ Custom Rom based on Lenovo's TB-7104F code source.
 <br>
      <br>At the terminal：
 
-    <br> 
+    <br>
     1.cd alps/kernel-4.4; 
 
   <br>  2.run ：./kernel_build.sh
