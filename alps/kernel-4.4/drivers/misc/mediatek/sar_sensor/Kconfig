@@ -1,0 +1,10 @@
+config MTK_SAR_SENSOR
+	tristate "SX9310_SAR_sensor"
+	depends on INPUT && I2C
+	default n
+	help 
+	  Say Y to enable the SAR detection application, if N here not to use the 
+	  this SAR sensor
+
+source "drivers/misc/mediatek/sar_sensor/sxt316/Kconfig"
+source "drivers/misc/mediatek/sar_sensor/sx9310/Kconfig"

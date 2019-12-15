@@ -1,0 +1,13 @@
+config MTK_SAR_SXT316
+	tristate "SAR SXT316 for MediaTek package"
+	default n
+	help
+	  It support different sar sensor.
+          If this option is set,
+	  it will support
+          SAR SXT316.
+config SAR_SENSOR_CHN_SELET
+	tristate "SAR SXT316 channel selet"
+	default n
+	help
+

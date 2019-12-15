@@ -1,0 +1,3 @@
+
+obj-$(CONFIG_MTK_SAR_SXT316)	+=  sxt316/
+obj-$(CONFIG_MTK_SAR_SX9310)	+=  sx9310/

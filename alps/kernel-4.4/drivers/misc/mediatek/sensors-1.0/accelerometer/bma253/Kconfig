@@ -1,0 +1,4 @@
+
+config MTK_BMA253
+	bool "BMA2X2 for MediaTek package"
+	default n

@@ -1,0 +1,10 @@
+config MTK_SAR_SX9310
+	tristate "SAR SX9310 for MediaTek package"
+	default n
+	help
+	  It support different sar sensor.
+          If this option is set,
+	  it will support
+          SAR SX9310.
+
+
