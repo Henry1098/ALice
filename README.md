@@ -1,7 +1,7 @@
 # ALice
 Custom Rom based on Lenovo's TB-7104F code source. 
 
-Change Log:
+<br>Change Log:</br>
 -Removed all the games and news app from source code
 -Added patched Google Play Store 
 -Added patched Google Play Services
